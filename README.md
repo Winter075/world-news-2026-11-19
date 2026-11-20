@@ -4,9 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/Winter075/world-news-2026-11-19/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard)
 [![reward](https://make.fun/badge/news-image-20261119/Winter075/world-news-2026-11-19/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
-One image that sums up the world's news for Thursday 19 November 2026. `main.ts` copies the committed `entry.png` to the output directory the grader gives it. The source SVG lives in `design.html`.
-
-The image names the day and covers six reports from that date across regions and fields: the Trump, Xi and Putin trilateral in Shenzhen, the ICJ ruling on Myanmar and the Rohingya, the strike on the Kerch bridge in the Ukraine war, Anthropic's record IPO, Cyclone Akvan in Odisha, and the Houthi missile that hit Riyadh's PIF Tower. A footer adds three more stories from the same day.
+One image that sums up the world's news for Thursday 19 November 2026. `main.ts` copies the committed `entry.png` to the output directory the grader gives it. The image is supplied by the entrant and is a 1024 by 572 JPEG at 187 KB, stored under the required name `entry.png`.
 
 > New here? Sign up with my link: https://make.fun/r/tamdp7j6
 >
